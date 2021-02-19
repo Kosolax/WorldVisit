@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WorldVisit</string>
+    <string name="country_add_button">Ajouter un pays</string>
+    <string name="main_error_internet_connection">Aucune connexion internet</string>
+    <string name="main_error_connection_ws">Une erreur est survenu lors de la communication avec le serveur.</string>
+    <string name="item_country_captial">Capitale: </string>
+    <string name="item_country_region">Continent: </string>
+    <string name="search_bar_ok">OK</string>
+    <string name="search_bar_select_country">Saisir un pays ...</string>
+    <string name="validate_button">VALIDER</string>
+</resources>

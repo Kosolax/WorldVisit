@@ -1,0 +1,60 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorRose</item>
+    </style>
+    <style name="MainAddButton">
+        <item name="android:textAllCaps">true</item>
+        <item name="android:background">@color/colorRose</item>
+        <item name="android:textColor">@color/colorWhite</item>
+    </style>
+    <style name="ItemCountryName">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">17dp</item>
+        <item name="android:textColor">@color/colorBlack</item>
+    </style>
+    <style name="ItemCountryMarginLeft">
+        <item name="android:layout_marginLeft">20dp</item>
+    </style>
+    <style name="Bin">
+        <item name="android:layout_marginRight">20dp</item>
+        <item name="android:background">@color/colorWhite</item>
+    </style>
+    <style name="ItemCountryConstraintLayout">
+        <item name="android:layout_height">110dp</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:paddingBottom">10dp</item>
+    </style>
+    <style name="ItemCountryFlag">
+        <item name="android:layout_width">90dp</item>
+        <item name="android:layout_height">40dp</item>
+    </style>
+    <style name="ItemCountrySeparator">
+        <item name="android:layout_height">1dp</item>
+        <item name="android:paddingLeft">5dp</item>
+        <item name="android:paddingRight">5dp</item>
+        <item name="android:background">@android:color/darker_gray</item>
+    </style>
+    <style name="SearchBarOk">
+        <item name="android:layout_width">50dp</item>
+    </style>
+    <style name="SearchBarStyle">
+        <item name="android:layout_height">48dp</item>
+        <item name="android:layout_marginRight">50dp</item>
+        <item name="android:paddingLeft">10dp</item>
+    </style>
+    <style name="ValidateButton">
+        <item name="android:background">@color/colorGreen</item>
+        <item name="android:textColor">@color/colorWhite</item>
+    </style>
+    <style name="CalendarStyle">
+        <item name="android:scaleX">1.17</item>
+        <item name="android:scaleY">1.17</item>
+        <item name="android:paddingTop">35dp</item>
+    </style>
+
+</resources>
